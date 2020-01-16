@@ -8,8 +8,8 @@ sudo pip install rospkg
 
 #ros install
 cd ..
-sudo git clone https://github.com/raspberrypi1808/ros_setup_scripts_Ubuntu14.04_server.git
-cd ./ros_setup_scripts_Ubuntu14.04_server
+sudo git clone https://github.com/raspberrypi1808/ros_setup_scripts_Ubuntu16.04_server.git
+cd ./ros_setup_scripts_Ubuntu16.04_server
 bash ./step0.bash
 bash ./step1.bash
 
